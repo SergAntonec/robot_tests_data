@@ -479,7 +479,7 @@ ubiz:
             accelerator: 60
             auction: [100, 0]
         dgfInsider:
-            accelerator: 1440
+            accelerator: 360
             auction:  [30, 0]
     keywords_file: ubiz
     homepage: 'http://test.ubiz.com.ua/auctions-all'
